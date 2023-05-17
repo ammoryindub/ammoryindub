@@ -48,7 +48,7 @@ Lead Auditor “Management System’s” ISO 9001- ISO 14001- ISO 45001
 - 🔭 I’m currently working on continual improvement passive income and maintaining cash flow
 - 🌱 I’m currently learning more skills with data science  
 - 👯 I’m looking to collaborate on innovative prototype - new ideas - entrepreneurial opportunities 
-- 🤔 I’m looking for help with getting hired (remotely if possible!) 
+- 🤔 I’m looking for getting hired (remotely if possible!) willing to travel domestically and Internationally upto 40-50%  
 - 💬 Ask me about Strategy / Operations 
 - 📫 How to reach me: a84_zidane@windowslive.com 
 - ⚡ Fun fact: Love watching animes 
