@@ -11,7 +11,7 @@ I am a highly motivated and organized professional with over a decade of experie
 A versatile individual with a determination to succeed and a willingness to do whatever it takes to achieve success.
 
 ### Hard Skills: ###
- Quality Assurnace - Python - DataScience (libraries) - Microsoft (Word – Excel – PowerPoint – Outlook – Visio – Power BI - Github) - Adobe (Photoshop – Illustrator – InDesign) - ISO Lead Auditor various management systmes (9001 - 14001 – 45001 -27001)
+ Quality Assurnace - Python - DataScience (libraries) - Microsoft (Word – Excel – PowerPoint – Outlook – Visio – Power BI - Github) - Adobe (Photoshop – Illustrator – InDesign) - Lead Auditor various management systmes ISO (9001 - 14001 – 45001 -27001)
  
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammoryindub)](https://github.com/anuraghazra/github-readme-stats)
