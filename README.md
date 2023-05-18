@@ -50,9 +50,9 @@ Lead Auditor “Management System’s” ISO 9001- ISO 14001- ISO 45001
 - 👯 I’m looking to collaborate on innovative prototype - new ideas - entrepreneurial opportunities 
 - 🤔 I’m looking for getting hired (remotely if possible!) willing to travel domestically and Internationally upto 40-50% 
      an ideal job would be in the travel and hospitality sector (Destination Manager possibly!)
-- 💬 Ask me about Strategy / Operations / Research & Development
+- 💬 Ask me about Strategy / Operations / Research & Development / Continuous Improvement 
 - 📫 How to reach me: a84_zidane@windowslive.com 
-- ⚡ Fun fact: Love watching animes 
+- ⚡ Fun fact: hope to plant potatoes on Mars, would love having Frenchfries overthere!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ammoryindub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/a-zidane//)  
