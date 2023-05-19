@@ -1,7 +1,7 @@
 # A.AlexZidan
 
 ### Hi there 👋, my name is Ammar
-#### I am Business enthusiast, Strategy Manager: planning, executive, operations, market position, and competitive advantage.
+#### I am Business enthusiast, Strategy Planning Operations : executive, operations, market position, and competitive advantage.
 
 [![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammoryindub)](https://github.com/anuraghazra/github-readme-stats)
 
