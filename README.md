@@ -20,7 +20,7 @@ A versatile individual with a determination to succeed and a willingness to do w
 
 ### Soft Skills: ###
 Communication skills - Teamwork & Work ethics - Problem-solving ability - Adaptability and flexibility - Time management - Leadership skills
-Interpersonal skills - Conflict resolution skills - Creativity and innovation - Attention to detail, Critical thinking - Positive attitude & Self-motivation - Customer service skills - Emotional intelligence - Cultural awareness and sensitivity - Decision-making ability - Stress management - Collaboration skills - Presentation skills
+Interpersonal skills - Conflict resolution skills - Creativity and innovation - Attention to detail, Critical thinking - Positive attitude & Self-motivation - Customer service skills - Emotional intelligence - Cultural awareness and sensitivity - Decision-making ability - Stress management - Collaboration skills - Presentation skills.
 
 
 ### Certificates: ###
