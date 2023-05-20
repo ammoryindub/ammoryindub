@@ -1,4 +1,5 @@
 # A.AlexZidan
+![Profile views](https://gpvc.arturio.dev/ammoryindub) 
 
 ### Hi there 👋, my name is Ammar
 #### I am Business enthusiast, Strategy Planning Operations : executive, market position, and competitive advantage.
@@ -66,4 +67,4 @@ Lead Auditor “Management System’s” ISO 9001- ISO 14001- ISO 45001
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ammoryindub)  
 
-![Profile views](https://gpvc.arturio.dev/ammoryindub)  
+ 
