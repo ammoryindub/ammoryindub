@@ -45,6 +45,9 @@ Lead Auditor “Management System’s” ISO 9001- ISO 14001- ISO 45001
 
 ###
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ammoryindub&no-frame=true&no-bg=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ###
 - 🔭 I’m currently working on continual improvement passive income and maintaining cash flow
 - 🌱 I'm currently focusing on continuous improvement by learning more skills with data science 
@@ -62,7 +65,6 @@ Lead Auditor “Management System’s” ISO 9001- ISO 14001- ISO 45001
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ammoryindub&no-frame=true&no-bg=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
