@@ -8,7 +8,6 @@
 ### Hi there 👋, my name is Ammar
 #### I am Business enthusiast, Strategy Planning Operations : executive, market position, and competitive advantage.
 
-[![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammoryindub)](https://github.com/anuraghazra/github-readme-stats)
 
 I am a highly motivated and organized professional with over a decade of experience in strategy management, business development, channel management and change implementation. I am passionate about achieving corporate strategic development goals and leading successful teams. 
  a
@@ -18,7 +17,8 @@ A versatile individual with a determination to succeed and a willingness to do w
 ### Hard Skills: ###
  Quality Assurnace - Python - DataScience (libraries) - Microsoft (Word – Excel – PowerPoint – Outlook – Visio – Power BI - Github) - Adobe (Photoshop – Illustrator – InDesign) - Lead Auditor various management systmes ISO (9001 - 14001 – 45001 -27001).
  
- 
+
+[![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammoryindub)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammoryindub)](https://github.com/anuraghazra/github-readme-stats)
 
 
