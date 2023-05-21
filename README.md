@@ -61,10 +61,10 @@ Lead Auditor “Management System’s” ISO 9001- ISO 14001- ISO 45001
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 
-Available value: boolean type (true or false)
-Default: no-frame=false
-[![trophy](https://github-profile-trophy.vercel.app/?username=ammoryindub)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ammoryindub-ma&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+https://github-profile-trophy.vercel.app/?username=ammoryindub
 
 ![GitHub metrics](https://metrics.lecoq.io/ammoryindub)  
 
