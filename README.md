@@ -1,7 +1,8 @@
 ![Profile views](https://gpvc.arturio.dev/ammoryindub) 
 # A.AlexZidan
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>] (https://github.com/ammoryindub)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/a-zidane//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>] (https://github.com/ammoryindub)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/a-zidane//)
 
 ### Hi there 👋, my name is Ammar
 #### I am Business enthusiast, Strategy Planning Operations : executive, market position, and competitive advantage.
