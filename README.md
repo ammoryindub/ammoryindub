@@ -64,7 +64,7 @@ Lead Auditor “Management System’s” ISO 9001- ISO 14001- ISO 45001
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ammoryindub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-https://github-profile-trophy.vercel.app/?username=ammoryindub
+
 
 ![GitHub metrics](https://metrics.lecoq.io/ammoryindub)  
 
