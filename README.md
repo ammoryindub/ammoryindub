@@ -6,7 +6,7 @@
 
 
 ### Hi there 👋, my name is Ammar
-#### I am Business enthusiast, Strategy Planning Operations : executive, market position, and competitive advantage.
+#### I am Business enthusiast, specialized in Strategy, Planning, Operations, Supply Chain, Market positioning, and Competitive advantage.
 
 
 I am a highly motivated and organized professional with over a decade of experience in strategy management, business development, channel management and change implementation. I am passionate about achieving corporate strategic development goals and leading successful teams. 
