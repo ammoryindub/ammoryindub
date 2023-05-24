@@ -60,7 +60,7 @@ Lead Auditor “Management System’s” ISO 9001- ISO 14001- ISO 45001
      an ideal job would be in the travel and hospitality sector (Destination Manager possibly!)
 - 💬 Ask me about Strategy / Operations / Research & Development / Continuous Improvement 
 - 📫 How to reach me: a84_zidane@windowslive.com 
-- ⚡ Fun fact: hope to plant potatoes on Mars, would love to have French Fries over there!
+- ⚡ Fun fact: hope to plant potatoes on Mars, humans would love some French Fries over there!
 
 
 
