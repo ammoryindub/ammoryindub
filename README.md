@@ -40,11 +40,11 @@ Machine learning and AI algorithms with Python, IBM-Coursera (2022)
 
 
 ### Relevant Courses Acquired: ###
-Strategy Management, Alison.com 
-Human Resource Management, Geneva University 
-SME Subject Matter Expert
-Finance for Non-finance 
-Building Business Acumen
+Strategy Management - 
+Human Resource Management - 
+SME Subject Matter Expert - 
+Finance for Non-finance  - 
+Building Business Acumen - 
 Lead Auditor “Management System’s” ISO 9001- ISO 14001- ISO 45001 
 
 ###
