@@ -54,7 +54,7 @@ Lead Auditor “Management System’s” ISO 9001- ISO 14001- ISO 45001
 ###
 - 🔭 I’m currently working on continual improvement of passive income and maintaining cash flow
 - 🌱 I'm currently focusing on continuous improvement by learning more skills in data science 
-- 👯 I’m looking to collaborate on innovative prototype - new ideas - entrepreneurial opportunities 
+- 👯 I’m looking to collaborate on innovative prototypes - new ideas - entrepreneurial opportunities 
 - 🤔 I’m looking for getting hired (remotely if possible!) willing to travel domestically and Internationally upto 40-50% 
      an ideal job would be in the travel and hospitality sector (Destination Manager possibly!)
 - 💬 Ask me about Strategy / Operations / Research & Development / Continuous Improvement 
