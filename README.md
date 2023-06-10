@@ -20,6 +20,8 @@ A versatile individual with a determination to succeed and a willingness to do w
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammoryindub)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammoryindub&langs_count=8)
+
 
 
 ### Soft Skills: ###
