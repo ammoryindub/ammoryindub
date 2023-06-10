@@ -17,8 +17,6 @@ A versatile individual with a determination to succeed and a willingness to do w
 
 ### Hard Skills: ###
  Quality Assurnace - Python - DataScience (libraries) - Microsoft (Word – Excel – PowerPoint – Outlook – Visio – Power BI - Github) - Adobe (Photoshop – Illustrator – InDesign) - Lead Auditor various management systmes ISO (9001 - 14001 – 45001 -27001).
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammoryindub)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammoryindub&langs_count=8)
 
