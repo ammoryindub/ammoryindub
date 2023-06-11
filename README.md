@@ -22,7 +22,7 @@ A versatile individual with a determination to succeed and a willingness to do w
 
 [![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammoryindub)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammoryindub&show_icons=true&theme=transparent)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammoryindub&show_icons=true&theme=transparent)
 
 ### Hard Skills: ###
  Quality Assurnace - Python - DataScience (libraries) - Microsoft (Word – Excel – PowerPoint – Outlook – Visio – Power BI - Github) - Adobe (Photoshop – Illustrator – InDesign) - Lead Auditor various management systmes ISO (9001 - 14001 – 45001 -27001).
