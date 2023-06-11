@@ -8,19 +8,10 @@
 ### Hi there 👋, my name is Ammar
 #### I am a Business enthusiast, expert in Strategy, Planning, Operations, Supply Chain, Market positioning, and Competitive advantage.
 
-<a href="https://github.com/ammoryindub/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ammoryindub&repo=github-readme-stats" />
-</a>
-
-<a href="https://github.com/ammoryindub/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ammoryindub&repo=convoychat" />
-</a>
 
 I am a highly motivated and organized professional with over a decade of experience in strategic management, business development, channel management, and change implementation. I am passionate about achieving corporate strategic development goals and leading successful teams.
 
 A versatile individual with a determination to succeed and a willingness to do whatever it takes to achieve success.
-
-[![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammoryindub)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammoryindub&show_icons=true&theme=transparent)
 
