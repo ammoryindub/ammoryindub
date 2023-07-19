@@ -20,7 +20,7 @@ A versatile individual with a determination to succeed and a willingness to do w
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammoryindub&langs_count=8)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammoryindub&langs_count=8)
 
 ### Soft Skills: ###
 Communication skills - Teamwork & Work ethics - Problem-solving ability - Adaptability and flexibility - Time management - Leadership skills
