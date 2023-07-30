@@ -45,6 +45,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammoryindub&" alt="ammoryindub" /></p>
 
 
+![GitHub metrics](https://metrics.lecoq.io/ammoryindub)  
+
 ------------------------------------------------------------------------------------------------
 
  
@@ -119,7 +121,7 @@ Lead Auditor “Management System’s” ISO 9001- ISO 14001- ISO 45001
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/ammoryindub)  
+
 
 
 
