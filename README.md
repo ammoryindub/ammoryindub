@@ -116,6 +116,6 @@ Lead Auditor “Management System’s” ISO 9001- ISO 14001- ISO 45001
 
 ![GitHub metrics](https://metrics.lecoq.io/ammoryindub)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ammoryindub)  
+
 
  
