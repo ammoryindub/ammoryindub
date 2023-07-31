@@ -1,7 +1,7 @@
 # A.AlexZidan
 
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate strategy, planning professional from USA</h3>
+<h3 align="center">A passionate strategy, planning and operations professional from USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammoryindub&label=Profile%20views&color=0e75b6&style=flat" alt="ammoryindub" /> </p>
 
