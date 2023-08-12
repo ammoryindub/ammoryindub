@@ -56,9 +56,8 @@
 
 
 
-I am a highly motivated and organized professional with over a decade of experience in strategic management, business development, channel management, and change implementation. I am passionate about achieving corporate strategic development goals and leading successful teams.
-
-A versatile individual with a determination to succeed and a willingness to do whatever it takes to achieve success.
+highly motivated and organized professional with over a decade of experience in strategy, planning, operations, and change implementation. I am passionate about achieving corporate strategic goals and leading successful teams.
+You get a versatile individual with a determination to succeed and a willingness to do whatever it takes to achieve success.
 
 
 
