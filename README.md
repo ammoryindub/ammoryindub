@@ -100,8 +100,7 @@ Lead Auditor “Management System’s” ISO 9001- ISO 14001- ISO 45001
 
 ###
 
-- 👯 I’m looking to collaborate on innovative prototypes - new ideas - entrepreneurial opportunities 
-- 🤔 I’m looking for getting hired (remotely if possible!) and am willing to travel domestically and Internationally up to 40 -  50% an ideal job would be in the travel and hospitality sector (Destination Manager possibly!)
+
 - 💬 Ask me about Strategy / Operations / Research & Development / Continuous Improvement 
 - 📫 How to reach me: a84_zidane@windowslive.com 
 - ⚡ Fun fact: hope to plant potatoes on Mars, humans would love some French Fries over there!
