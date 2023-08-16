@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammoryindub" alt="ammoryindub" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ammoryindub&no-frame=true&no-bg=true&theme=gruvbox&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on [Strengthening my Data Science skills](https://github.com/ammoryindub?tab=repositories)
 
 - 🌱 I’m currently learning **Machine Learning, Artificial intelligence**
@@ -95,7 +97,7 @@ Lead Auditor “Management System’s” ISO 9001- ISO 14001- ISO 45001
 ###
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ammoryindub&no-frame=true&no-bg=true&theme=gruvbox&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
