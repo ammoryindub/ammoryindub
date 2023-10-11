@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Artificial intelligence**
 
-- 👯 I’m looking to collaborate on **networking, open to new hiring opportunities and partnerships**
+- 👯 I’m looking to collaborate on **new hiring opportunities and partnerships**
 
 - 🤝 I’m looking for help with **networking and meeting other professionals from the same field**
 
