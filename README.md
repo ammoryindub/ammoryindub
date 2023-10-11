@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/a-zidane/](https://www.linkedin.com/in/a-zidane/)
 
-- 💬 Ask me about **what ever runs through your mind**
+- 💬 Ask me about **whatever runs through your mind**
 
 - 📫 How to reach me **a84_zidane@windowslive.com**
 
