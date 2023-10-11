@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **networking, open to new hiring opportunities and partnerships**
 
-- 🤝 I’m looking for help with **networking, and meeting other professionals from the same field**
+- 🤝 I’m looking for help with **networking and meeting other professionals from the same field**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ammoryindub](https://github.com/ammoryindub)
 
