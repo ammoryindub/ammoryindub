@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on [Strengthening my Data Science skills](https://github.com/ammoryindub?tab=repositories)
+- 🔭 I’m currently working on [freelance business planning](https://github.com/ammoryindub?tab=repositories)
 
 - 🌱 I’m currently learning **Machine Learning, Artificial intelligence**
 
