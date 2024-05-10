@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working as [Business, Digital Marketing, & Management Consultant](https://github.com/ammoryindub?tab=repositories)
+- 🔭 I’m currently working as [Business, Digital Marketing, & Management Consultant](https://www.linkedin.com/in/a-zidane/)
 
 - 🌱 I’m currently learning **Machine Learning, Artificial intelligence**
 
